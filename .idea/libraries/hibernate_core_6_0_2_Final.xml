@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="hibernate-core-6.0.2.Final">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/hibernate-core-6.0.2.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ideaLibSources/hibernate-core-6.0.2.Final-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.ideaLibSources/hibernate-core-6.0.2.Final-sources.jar!/cfg" />
+      <root url="jar://$USER_HOME$/.ideaLibSources/hibernate-core-6.0.2.Final-sources.jar!/hbm" />
+    </SOURCES>
+  </library>
+</component>
