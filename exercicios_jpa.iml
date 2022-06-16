@@ -7,6 +7,9 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" name="hibernate-core-6.0.2.Final" level="project" />
+    <orderEntry type="library" exported="" name="hibernate-core-6.0.2.Final" level="project" />
+    <orderEntry type="library" name="hibernate-jpamodelgen-6.0.2.Final" level="project" />
+    <orderEntry type="library" name="hibernate-ant-6.0.2.Final" level="project" />
+    <orderEntry type="library" name="hibernate-community-dialects-6.0.2.Final" level="project" />
   </component>
 </module>
